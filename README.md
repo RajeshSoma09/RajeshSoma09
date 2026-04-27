@@ -1,4 +1,4 @@
-<h1 align="center">Rajesh Soma</h1>
+<h1 align="center">Heyy, I'm</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Rajesh%20Soma&fontSize=40&fontColor=ffffff&animation=fadeIn" />
